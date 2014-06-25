@@ -1,0 +1,6 @@
+---
+published: true
+title: It works!
+layout: post
+---
+shocker
